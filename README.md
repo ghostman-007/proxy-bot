@@ -28,11 +28,11 @@ This is an automated script developed with the intension of utilizing precious t
     
 ## Installation
 1. Clone the repo to your local pc
-2. Open PROXY_BOT.py and make changes written in it
-3. Run proxy_bot.py
+2. Open PROXY_BOT.ipynb and make changes written in it
+3. Run PROXY_BOT.ipynb
 4. In the opened chrome tab add a user using which you want to join lectures
-5. Stop Proxy_bot.py and close google chrome
-6. Now whenever you want to attend the lecture just change the time in proxy_bot.py and run it.
+5. Stop PROXY_BOT.ipynb and close google chrome
+6. Now whenever you want to attend the lecture just change the time in PROXY_BOT.ipynb and run it.
 
 ## Errors you may come across
 * Couldn't sign you in
