@@ -6,7 +6,6 @@ This is an automated script developed with the intension of utilizing precious t
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Errors you may come across](#errors-you-may-come-across)
-* [Motivation](#motivation)
 
 ## Features
 * Disable Camera
@@ -20,7 +19,7 @@ This is an automated script developed with the intension of utilizing precious t
 
 ## Requirements
 * Google Chrome
-* Chormedriver
+* Chromedriver
 * Python 3.0+
   * Python Libraries
     * selenium
@@ -40,7 +39,3 @@ This is an automated script developed with the intension of utilizing precious t
 
 * You can't join the video call
   * You may have not signed in your google account.
-  
- ## Motivation
-1. Bunking lectures when already have the knowledge of the topics to be taught.
-2. To join lectures on time having strict time constraints.
